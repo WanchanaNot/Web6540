@@ -1,0 +1,63 @@
+
+        .text-uppercase {
+            text-transform: uppercase;
+        }
+        .button {
+            background-color: rgb(145, 252, 58);
+            margin: 10px;
+            padding: 8px 20px;
+            text-align: center;
+            border-radius: 30%;
+            display: inline-block;
+        }
+        a {
+            text-decoration: none;
+            color: black;
+        }       
+        input{
+            margin-top: 10px;
+        }
+
+        .mybg {
+            background-color: rgb(97, 79, 216);
+        }
+   
+        .my-circle {
+            border-radius: 100%;
+            width: 100px;
+            height: 100px;
+            margin: auto;
+        }
+
+        footer {
+            background-color: slateblue;
+        }
+
+        .member {
+            background-color: rgb(102, 23, 228);
+            padding: 40px;
+        }
+        
+        .member-box {
+            width: 1100px;
+            background-color: #fafafa;
+            margin: auto;
+        
+            box-shadow: 0px 0px 5px 0.5px #888888;
+            border-radius: 5px;
+            padding: 1px 40px 40px;
+        }
+        
+        /*start member */
+       /* table {
+            width: 80%;
+            border: 1px solid black;
+            border-collapse: collapse;
+        
+            margin: auto;
+        }
+        
+        th, td {
+            border: 1px solid black;
+        }
+        
